@@ -111,17 +111,10 @@ Insights & Recommendations
 Based on the analysis:
 
 * **Optimize morning operations** around the 8–10 AM peak.
+* Boost evening sales by targeting the 4–6 PM period with strategic promotions and attractive combo offers.
 * **Strengthen coffee sales** through premium products and coffee + bakery bundles.
-* **Review low-performing categories** for pricing, demand, and promotional opportunities.
+* **Review low-performing product** like **Packaged Chocolate** for pricing, demand, and promotional opportunities.
 * **Monitor store-level KPIs** to maintain balanced performance.
 * Focus on **transaction growth, repeat purchases, and customer retention** since AOV remained relatively stable.
 
 ---
-
-# 🎯 Conclusion
-
-The analysis shows that the coffee shop experienced **strong revenue and transaction growth from January to June**, with growth primarily driven by higher transaction volume.
-
-**Coffee remained the core revenue driver, while morning hours represented the strongest sales opportunity.**
-
-The project demonstrates an end-to-end approach to turning raw sales data into **actionable business insights using Python, SQL, and Power BI**.
