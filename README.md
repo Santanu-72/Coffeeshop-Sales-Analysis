@@ -56,7 +56,7 @@ Insights & Recommendations
 
 
 
-![Coffee Shop Sales Dashboard](images/dashboard.png)
+![Coffeeshop Sales Analysis](Power_BI_Dashboard/images/coffeeshophomepage.png)
 
 ---
 
