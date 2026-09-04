@@ -56,8 +56,9 @@ Insights & Recommendations
 
 
 
-![Coffeeshop Sales Analysis](Power_BI_Dashboard/images/coffeeshophomepage.png)
-
+![Power BI Dashboard](Power%20BI%20Dashboard/images/cofeeshophomepage.png)
+![Power BI Dashboard](Power%20BI%20Dashboard/images/img2.png)
+![Power BI Dashboard](Power%20BI%20Dashboard/images/img3.png)
 ---
 
 # 📈 Key Performance Indicators
